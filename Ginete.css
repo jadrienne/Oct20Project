@@ -1,0 +1,158 @@
+html {
+    background-color:  #f5f7f2;
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 87%;
+}
+
+.container {
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: lightpink;
+}
+
+header h1 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 165%;
+}
+
+header p {
+    margin: 0;
+}
+
+.content-area {
+    border-top: 3px solid #f5f7f2;
+    border-bottom: 3px solid #f5f7f2;
+}
+
+.main {
+    width: 70%;
+    float: left;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.support {
+    width: 30%;
+    float: left;
+    background-color:#f5f7f2;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+    font-size: 85%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fix {
+    clear: both;
+}
+
+p {
+    color: gray;
+}
+
+footer p {
+    color: red;
+    text-align: center;
+    font-size: 85%;
+    color: #999;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    font-size: 165%;
+    font-weight: normal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header p {
+    color:lightpink;
+}
+
+aside {
+    color: lightpink;
+}
+
+header p span {
+    color: lightpink
+}
+
+.highlight {
+    color: gray;
+    background-color: lightpink;
+}
+
+.brand-color {
+    color: gray;
+    background-color: lightpink;
+}
+
+h1 {
+    font-size: 165%;
+    font-weight: normal;
+}
+p {
+    color:gray;
+}
+footer {
+    color:red;
+}
+footer p {
+    color:gray;
+}
+
+h1 {
+    color:rgb(231, 174, 227);
+    text-align: center;
+}
+
+header p {
+    color:rgb(165, 214, 247);
+}
+
+.color {
+    background-color: lightblue;
+}
+
+.container {
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-area {
+    border-top: 3px solid  #e5e9dc;
+    border-bottom: 3px solid  #e5e9dc;
+}
+
+.main {
+    width: 70%;
+    float: left;
+}
+
+.support {
+    width: 30%;
+    float: left;
+}
+
+.fix {
+    clear: both;
+}
